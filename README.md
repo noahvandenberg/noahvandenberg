@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋🏼, I'm Noah</h1>
-<h3 align="center">A full stack developer from Canada</h3>
+<h1 align="center">Hi 👋🏼, I'm Noah 👨🏼‍💻</h1>
+<h3 align="center">A full stack developer from Canada 🇨🇦</h3>
 
 - 🌱 I’m currently learning **full stack web development @ Lighthouse Labs**
 
-- 💬 Ask me about **Ecommerce && Sweaty startups && Formula 1**
+- 💬 Ask me about **Ecommerce 📦 && Sweaty startups 🧹 && Formula 1 🏎️**
 
 - 👨‍💻 All of my projects are available at [noahvandenberg.com](noahvandenberg.com)
 
@@ -11,15 +11,15 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/noahvandenberg/](https://www.linkedin.com/in/noahvandenberg/)
 
-- ⚡ Fun fact **I learned how to properly pronouce my lastname as a teenager**
+- ⚡ Fun fact: **I learned how to properly pronouce my lastname as a teenager**
 
 
 #
-<h3 align="left">Connect with me:</h3>
+<h3 align="Center">Let's Connect!</h3>
 
-![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahvandenberg/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NoahDVandenberg)
 
-[![Twitter](https://img.shields.io/badge/-Twitter-#1DA1F2?style=flat&logo=twitter&logoColor=white)]
 
 #
 <h3 align="left">Languages and Tools:</h3>
