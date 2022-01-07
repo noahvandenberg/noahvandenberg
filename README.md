@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **full stack web development @ Lighthouse Labs**
 
-- 👨‍💻 All of my projects are available at [noahvandenberg.com](noahvandenberg.com)
-
 - 💬 Ask me about **Ecommerce && Sweaty startups && Network Security**
+
+- 👨‍💻 All of my projects are available at [noahvandenberg.com](noahvandenberg.com)
 
 - 📫 How to reach me **noah@noahvandenberg.com**
 
@@ -21,6 +21,8 @@
 <a href="https://twitter.com/noahdvandenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noahdvandenberg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/noahvandenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noahvandenberg" height="30" width="40" /></a>
 </p>
+
+![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=html5&logoColor=white)
 
 #
 <h3 align="left">Languages and Tools:</h3>
