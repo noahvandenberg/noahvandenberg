@@ -16,6 +16,7 @@
 
 #
 <h3 align="left">Connect with me:</h3>
+
 ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/-Twitter-#1DA1F2?style=flat&logo=twitter&logoColor=white)
 
