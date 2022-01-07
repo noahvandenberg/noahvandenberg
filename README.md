@@ -16,13 +16,8 @@
 
 #
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/noahvandenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="noahvandenberg" height="30" width="40" /></a>
-<a href="https://twitter.com/noahdvandenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noahdvandenberg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/noahvandenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noahvandenberg" height="30" width="40" /></a>
-</p>
-
-![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=html5&logoColor=white)
+![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/-Twitter-#1DA1F2?style=flat&logo=twitter&logoColor=white)
 
 #
 <h3 align="left">Languages and Tools:</h3>
