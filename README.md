@@ -3,15 +3,11 @@
 
 - 🌱 I’m currently learning **full stack web development @ Lighthouse Labs**
 
-- 💬 Ask me about **Ecommerce 📦 && Sweaty startups 🧹 && Formula 1 🏎️**
-
 - 👨‍💻 All of my projects are available at [noahvandenberg.com](noahvandenberg.com)
 
 - 📫 How to reach me **noah@noahvandenberg.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/noahvandenberg/](https://www.linkedin.com/in/noahvandenberg/)
-
-- ⚡ Fun fact: **I learned how to properly pronouce my lastname as a teenager**
 
 
 #
