@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/noahvandenberg/](https://www.linkedin.com/in/noahvandenberg/)
 
-
+<!--
 #
 <h3 align="Center">Let's Connect!</h3>
 
@@ -27,7 +27,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://nodejs.org)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-
+-->
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahvandenberg&" alt="noahvandenberg" /></p>
