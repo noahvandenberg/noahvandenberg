@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Noah 👨🏼‍💻</h1>
 <h3 align="center">A full stack developer from Canada 🇨🇦</h3>
 
-- 🌱 I’m currently learning web3. Currently 
-- hacking smart contracts on [ethernaut](https://ethernaut.openzeppelin.com/)
 - 👨‍💻 All of my projects are available at here!
 - 📫 How to reach me **noah@noahvandenberg.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/noahvandenberg/](https://www.linkedin.com/in/noahvandenberg/)
