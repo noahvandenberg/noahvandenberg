@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at here!
 - 📫 How to reach me **noah@noahvandenberg.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/noahvandenberg/](https://www.linkedin.com/in/noahvandenberg/)
+- 📄 My experiences [https://www.linkedin.com/in/noahvandenberg/](https://www.linkedin.com/in/noahvandenberg/)
 
 #
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
