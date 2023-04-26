@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Noah 👨🏼‍💻</h1>
+<h1 align="center">Hi 👋🏻, I'm Noah 👨🏼‍💻</h1>
 <h3 align="center">A full stack developer from Canada 🇨🇦</h3>
 
 - 👨🏼‍💻 All of my public projects are available at here!
